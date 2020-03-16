@@ -1,0 +1,6 @@
+numpy
+pandas
+sqlalchemy
+scikit-learn
+K-Means
+psycopg2
